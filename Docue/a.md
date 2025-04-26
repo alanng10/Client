@@ -47,3 +47,5 @@ Client has park kind arch benefit.
 Client has park kind arch marry.
 
 Client has park kind arch land.
+
+Client has major.
