@@ -48,4 +48,8 @@ Client has park kind arch marry.
 
 Client has park kind arch land.
 
+Client has park mark.
+
+Client has park cross.
+
 Client has major.
